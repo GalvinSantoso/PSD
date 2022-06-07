@@ -1,0 +1,8 @@
+C:\Users\nicholas yvees\Desktop\Project Kelompok SEM 4\Pattern Software Design\Code\PSD\PSD\bin\Debug\PSD.exe.config
+C:\Users\nicholas yvees\Desktop\Project Kelompok SEM 4\Pattern Software Design\Code\PSD\PSD\bin\Debug\PSD.exe
+C:\Users\nicholas yvees\Desktop\Project Kelompok SEM 4\Pattern Software Design\Code\PSD\PSD\bin\Debug\PSD.pdb
+C:\Users\nicholas yvees\Desktop\Project Kelompok SEM 4\Pattern Software Design\Code\PSD\PSD\obj\Debug\PSD.csproj.AssemblyReference.cache
+C:\Users\nicholas yvees\Desktop\Project Kelompok SEM 4\Pattern Software Design\Code\PSD\PSD\obj\Debug\PSD.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicholas yvees\Desktop\Project Kelompok SEM 4\Pattern Software Design\Code\PSD\PSD\obj\Debug\PSD.csproj.CoreCompileInputs.cache
+C:\Users\nicholas yvees\Desktop\Project Kelompok SEM 4\Pattern Software Design\Code\PSD\PSD\obj\Debug\PSD.exe
+C:\Users\nicholas yvees\Desktop\Project Kelompok SEM 4\Pattern Software Design\Code\PSD\PSD\obj\Debug\PSD.pdb
